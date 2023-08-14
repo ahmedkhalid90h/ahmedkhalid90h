@@ -4,11 +4,6 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
----
-
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/overview.svg) ![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
-
----
 
 <h3>Things I code with</h3>
 <p>
